@@ -1,0 +1,4 @@
+{
+  "prefix": "!",
+  "mongooseConnectionString": "mongodb+srv://rlx:rlx@rlx.iv0gv.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}

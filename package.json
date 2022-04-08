@@ -1,0 +1,22 @@
+{
+  "name": "Basic Levels Bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Frazix12",
+  "license": "ISC",
+  "dependencies": {
+    "canvacord": "^5.2.3",
+    "discord-xp": "^1.1.16",
+    "discord.js": "^13.6.0",
+    "dotenv": "^10.0.0",
+    "glob": "^7.1.7",
+    "mongoose": "^5.13.2",
+    "nodemon": "^2.0.15"
+  }
+}
