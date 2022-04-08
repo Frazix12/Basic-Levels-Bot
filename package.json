@@ -10,7 +10,11 @@
   "keywords": [],
   "author": "Frazix12",
   "license": "ISC",
+  "engines": {
+    "node": ">=16.6.0"
+  },
   "dependencies": {
+    "node": "^16.6.0",
     "canvacord": "^5.2.3",
     "discord-xp": "^1.1.16",
     "discord.js": "^13.6.0",
